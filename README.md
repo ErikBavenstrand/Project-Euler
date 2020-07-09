@@ -1,7 +1,7 @@
 # Project Euler solutions
 
 Each file is a Python script solving the problem with the corresponding number on [Project Euler](https://projecteuler.net/archives)
-This was made with the intention to learn to write efficent Python scrpits.
+This was made with the intention to learn to write efficient Python scripts.
 
 [<img src="https://projecteuler.net/profile/erikbavenstrand.png">](https://projecteuler.net/)
 
@@ -11,7 +11,7 @@ To run a script, please read the following [post](http://pythoncentral.io/execut
 
 ### Prerequisites
 
-To run the scripts you will need to install [Python](https://www.python.org/).
+To run the scripts, you will need to install [Python](https://www.python.org/).
 
 ## Built With
 
